@@ -1,0 +1,24 @@
+{
+  "buttons": [
+    {
+      "text": "업로드",
+      "svgURL": "up-arrow"
+    },
+    {
+      "text": "업로드 중",
+      "svgURL": "spinner"
+    },
+    {
+      "text": "사용금지",
+      "svgURL": "not-allowed"
+    },
+    {
+      "text": "크로스",
+      "svgURL": "cross"
+    },
+    {
+      "text": "체크마크",
+      "svgURL": "check-mark"
+    }
+  ]
+}

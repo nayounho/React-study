@@ -3,8 +3,6 @@ import Img from "../Components/Img";
 
 
 
-
-
 function App ({ text, svgURL }) {
   return (
     <>
